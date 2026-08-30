@@ -1,3 +1,3 @@
-Voting System
+Admin Dashboard Module
 
-Implemented destination and tour package voting functionality to help group members make collective travel decisions.
+Implemented administrator features for managing destinations, tour packages, and system information.
