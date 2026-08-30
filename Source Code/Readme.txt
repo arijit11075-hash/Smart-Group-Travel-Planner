@@ -1,3 +1,3 @@
-Authentication Module
+Destination Exploration Module
 
-Implemented user registration, login functionality, and user role management.
+Implemented destination browsing, search, categories, and destination details functionality.
