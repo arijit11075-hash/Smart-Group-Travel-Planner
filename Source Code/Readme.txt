@@ -1,3 +1,3 @@
-Group Management Feature
+Voting System
 
-Implemented travel group creation, member invitation, destination selection, and group planning functionality.
+Implemented destination and tour package voting functionality to help group members make collective travel decisions.
