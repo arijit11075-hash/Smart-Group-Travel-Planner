@@ -1,3 +1,3 @@
-Destination Exploration Module
+Group Management Feature
 
-Implemented destination browsing, search, categories, and destination details functionality.
+Implemented travel group creation, member invitation, destination selection, and group planning functionality.
