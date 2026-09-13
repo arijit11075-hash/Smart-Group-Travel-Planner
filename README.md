@@ -1,8 +1,9 @@
-## Features
+Admin Management
 
-- User Authentication
-- Destination Exploration
-- Tour Package Management
-- Group Travel Planning
-- Voting System
-- Admin Dashboard
+-Add new destinations.
+-Update destination information.
+-Remove outdated destinations.
+-Add and update tour packages.
+-Update package prices.
+-Deactivate or remove unavailable packages.
+-Maintain accurate travel content.
